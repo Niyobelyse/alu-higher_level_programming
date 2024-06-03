@@ -1,1 +1,1 @@
-javascript-warm up
+This repository contains basics javascript
